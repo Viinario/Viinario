@@ -34,7 +34,7 @@ I specialize in **Cybersecurity** and **Cloud Computing**, with experience in IT
 - SRE - Trained by Itaú
 
 ## Education
-- **UFRPE** (2019 - Present)
+- **UFRPE** (2020 - Present)
   - Currently enrolled in the Computer Science program.
   - Active member of the CyberSecurity group BRsECaLab at UFRPE and working as a researcher in information security.
 
